@@ -1,6 +1,6 @@
 package BinarySearch;
 
-public class BinarySearch {
+public class Solution704 {
     public int search(int[] nums, int target) {
         // input (int[], int) -> return int
         // 1. 주어진 배열의 중앙값을 기준으로 범위를 반으로 줄여나가며 값이 target과 같은지 검사
